@@ -1,7 +1,7 @@
 # ilegra-forms-fontes
 Pasta com os FM* arquivos de Forms e Reports
 
--- Existe dois Branch's o MASTER e STAGINF
+-- Existe dois Branch's o MASTER e STAGING
 
 Para tentar organinar um pouco pensei no seguinte:
 
